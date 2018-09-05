@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fixyou.myson",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "myson",
+    "packageName": "com.fixyou.myson",
+    "packageFolder": "com/fixyou/myson",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MzI1ZmFmZWQxYjJlOGEyNmZlM2MxZTc4N2RhMzYyMjNmNGIzMDMwNGY3MWVhZjMzNjdjMDhkNjdlMWNlZWU1YzFhNmY4NTU4NjRhZDc2OTFmMzY0YThhZDkzNzliZDg0MTI2MGZlYTgwYTJmYTU3NmQ1ZjViNDAwMjY5MGJlMzk=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "vi"
+    ]
+  }
+}
